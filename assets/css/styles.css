@@ -1,0 +1,33 @@
+.contenedor{
+    width: 24rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.btnCard{
+    background-color: rgb(189, 185, 185);
+}
+.imgCard{
+    height: 250px;
+   
+}
+.imgCardDetalle{
+    filter: brightness(0.3);
+}
+.detalleActividad{
+    position: absolute;
+    top: 90px;
+    left: 130px;
+    color: white;
+    text-align: center;
+}
+.pActividad{
+    font-size: 30px;
+}
+.pUbicacion{
+    font-size: 14px;
+}
+#detalleImg1, #detalleImg2, #detalleImg3{
+    display: none;
+}
